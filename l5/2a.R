@@ -1,0 +1,6 @@
+print('REPL - read-eval-print loop')
+print('MVC - Model-view-controller')
+print('SAAS - Software as a service')
+print('UI - User interface')
+print('IP - Internet protocol')
+print('BSD - Berkeley Software Distribution')
